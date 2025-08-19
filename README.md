@@ -1,10 +1,14 @@
 # Hi there 👋, I'm Kislaya Srivastava  
 
 🚀 **AWS Certified Solutions Architect – Associate (CSAA-C02)**  
-💼 15+ years in enterprise application development & architecture  
+💼 15+ years in **enterprise application development & architecture**  
 ☁️ Passionate about Cloud | AWS | Python | DevOps | Terraform | CI/CD | Observability  
 
 ---
+
+## Who am i 
+I am a hands-on technologist who enjoys solving complex problems with simple, scalable and secure cloud Solutions.
+Currently exploring opportunities in **Cloud Architecture, AWS and DevOps Engineering** across **India & Overseas(Singapore, Malaysia, Dubai, Thailand, Australia)**.
 
 ## 🔥 What I Do
 - Build and explore **cloud-native solutions** (AWS Lambda, EKS, Amplify, DynamoDB)  
@@ -13,41 +17,49 @@
 - Share learnings on **cloud projects & experiments**  
 
 ---
+## 🛠️ Skills & Tools
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-brightgreen?logo=githubactions&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-red?logo=postgresql&logoColor=white)
+---
 
 ## 📌 Featured Projects
 Here are some of my key repos (check pinned for more!):  
 
 🔹 [Serverless Microservice](https://github.com/kislayasrivastava/serverless-microservice)  
-_AWS Lambda + API Gateway + DynamoDB for order processing_  
+    AWS Lambda + API Gateway + DynamoDB for order processing  
 
 🔹 [Cloud Resume on EKS](https://github.com/kislayasrivastava/resume-kubernetes)  
-_Cloud resume challenge hosted via Kubernetes on AWS EKS_  
+    Cloud resume challenge hosted via Kubernetes on AWS EKS  
 
 🔹 [Terraform Bootcamp](https://github.com/kislayasrivastava/terraform-beginner-bootcamp-2023)  
-_IaC templates to provision AWS infrastructure with Terraform_  
+    IaC templates to provision AWS infrastructure with Terraform  
 
 🔹 [Amplify WebApp Blog](https://github.com/kislayasrivastava/Amplify-WebApp-Blog)  
-_Serverless blogging app using AWS Amplify_  
+    Serverless blogging app using AWS Amplify  
+
+---
+
+## 💡 GitHub Stats
+![Kislaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kislayasrivastava&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kislayasrivastava&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🛠️ Tech Stack
-- **Cloud:** AWS (Lambda, API Gateway, DynamoDB, EKS, Amplify)  
+- **Cloud:** AWS (Lambda, API Gateway, DynamoDB, EKS)  
 - **Infra as Code:** Terraform  
 - **Languages:** Python, SQL, VB6 (legacy modernization)  
 - **DevOps:** CI/CD, Observability, Docker, Kubernetes  
 
 ---
 
-## 🎯 Career Goals
-I’m currently **open to opportunities** in:  
-- AWS Cloud Architecture  
-- DevOps / Cloud Engineering  
-- Solution Architecture (India & overseas – Singapore, Malaysia, Dubai, Thailand and Australia)  
-
----
-
-## 🌐 Connect With Me
-📧 Email: kislaya.srivastava@gmail.com  
-💼 LinkedIn: [linkedin.com/in/kislaya-srivastava](https://www.linkedin.com/in/kislaya-srivastava/)  
-🐙 GitHub: [github.com/kislayasrivastava](https://github.com/kislayasrivastava)  
+## 💼 Hire Me
+✅ **Open To Roles**: AWS Cloud Architect | DevOps Engineer | Solution Architect  
+🌍 **Location Preference**: India | Singapore | Malaysia | Dubai | Australia | Thailand
+📧 **Email**: kislaya.srivastava@gmail.com  
+💼 **LinkedIn**: [linkedin.com/in/kislaya-srivastava](https://www.linkedin.com/in/kislaya-srivastava)
