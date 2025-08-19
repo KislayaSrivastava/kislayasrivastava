@@ -49,5 +49,5 @@ I’m currently **open to opportunities** in:
 
 ## 🌐 Connect With Me
 📧 Email: kislaya.srivastava@gmail.com  
-💼 LinkedIn: [linkedin.com/in/kislayasrivastava](https://www.linkedin.com/in/kislaya-srivastava/)  
+💼 LinkedIn: [linkedin.com/in/kislaya-srivastava](https://www.linkedin.com/in/kislaya-srivastava/)  
 🐙 GitHub: [github.com/kislayasrivastava](https://github.com/kislayasrivastava)  
