@@ -39,8 +39,8 @@ Here are some of my key repos (check pinned for more!):
 🔹 [Terraform Bootcamp](https://github.com/kislayasrivastava/terraform-beginner-bootcamp-2023)  
     IaC templates to provision AWS infrastructure with Terraform  
 
-🔹 [Amplify WebApp Blog](https://github.com/kislayasrivastava/Amplify-WebApp-Blog)  
-    Serverless blogging app using AWS Amplify  
+🔹 [FileMovement Script Python](https://github.com/KislayaSrivastava/filemovement/)  
+    Automated File Search and Movement Script created using Python  
 
 ---
 
