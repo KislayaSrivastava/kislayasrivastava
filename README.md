@@ -6,7 +6,7 @@
 
 ---
 
-## Who am i 
+## Who am I 
 I am a hands-on technologist who enjoys solving complex problems with simple, scalable and secure cloud Solutions.
 Currently exploring opportunities in **Cloud Architecture, AWS and DevOps Engineering** across **India & Overseas(Singapore, Malaysia, Dubai, Thailand, Australia)**.
 
@@ -59,7 +59,7 @@ Here are some of my key repos (check pinned for more!):
 ---
 
 ## 💼 Hire Me
-✅ **Open To Roles**: AWS Cloud Architect | DevOps Engineer | Solution Architect  
-🌍 **Location Preference**: India | Singapore | Malaysia | Dubai | Australia | Thailand
-📧 **Email**: kislaya.srivastava@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/kislaya-srivastava](https://www.linkedin.com/in/kislaya-srivastava)
+- ✅ **Open To Roles**: AWS Cloud Architect | DevOps Engineer | Solution Architect  
+- 🌍 **Location Preference**: India | Singapore | Malaysia | Dubai | Australia | Thailand
+- 📧 **Email**: kislaya.srivastava@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/kislaya-srivastava](https://www.linkedin.com/in/kislaya-srivastava)
