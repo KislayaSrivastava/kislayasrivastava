@@ -30,8 +30,8 @@ Currently exploring opportunities in **Cloud Architecture, AWS and DevOps Engine
 ## 📌 Featured Projects
 Here are some of my key repos (check pinned for more!):  
 
-🔹 [Serverless Microservice](https://github.com/kislayasrivastava/serverless-microservice)  
-    AWS Lambda + API Gateway + DynamoDB for order processing  
+🔹 [Event Driven Order System](: https://github.com/KislayaSrivastava/event-driven-order-system)  
+    AWS Lambda + API Gateway + DynamoDB for Production Grade Event Driven order processing  
 
 🔹 [Cloud Resume on EKS](https://github.com/kislayasrivastava/resume-kubernetes)  
     Cloud resume challenge hosted via Kubernetes on AWS EKS  
