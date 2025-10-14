@@ -33,6 +33,9 @@ Here are some of my key repos (check pinned for more!):
 🔹 [Event Driven Order System](https://github.com/KislayaSrivastava/event-driven-order-system)  
     AWS Lambda + API Gateway + DynamoDB for Production Grade Event Driven order processing  
 
+🔹 [Hospital Application on AWS](https://github.com/KislayaSrivastava/multi-tier-hospital-aws-app)  
+    AWS + Terraform + Python + RDS for Production Grade Hospital Project  
+
 🔹 [Cloud Resume on EKS](https://github.com/kislayasrivastava/resume-kubernetes)  
     Cloud resume challenge hosted via Kubernetes on AWS EKS  
 
