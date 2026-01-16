@@ -62,8 +62,8 @@ Utility scripts for file search and movement
 ---
 
 ## 📊 GitHub Activity
-![Kislaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kislayasrivastava&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kislayasrivastava&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kislayasrivastava&show_icons=true&hide_title=true&count_private=true)
+
 
 ---
 
