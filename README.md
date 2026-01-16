@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kislaya Srivastava  
+# Hi there 👋, I'm Kislaya Srivastava
 
 🚀 **AWS Certified Solutions Architect – Associate (CSAA-C02)**  
 💼 15+ years of experience in **enterprise application development & architecture**  
@@ -7,44 +7,41 @@
 ---
 
 ## 👨‍💻 About Me
-I am a hands-on technologist with a strong background in designing, building, and modernizing scalable enterprise systems.  
-My interests lie in **cloud-native architectures**, **automation**, and **reliable, observable platforms**.
+I am a hands-on technologist with deep experience in designing, building, and modernizing enterprise systems.  
+My interests include **cloud-native architectures**, **infrastructure automation**, and **building reliable, observable platforms at scale**.
 
-I use GitHub to:
+I use GitHub primarily as a workspace to:
 - Experiment with cloud and infrastructure patterns  
-- Build reference implementations and learning projects  
-- Document architectural approaches and trade-offs  
+- Build reference implementations and proof-of-concepts  
+- Document architectural approaches, trade-offs, and learnings  
 
 ---
 
 ## 🔧 What I Work On
 - Cloud-native workloads on **AWS** (Lambda, EKS, API Gateway, DynamoDB)  
-- Infrastructure automation using **Terraform**  
-- Backend development and scripting with **Python**  
+- Infrastructure-as-Code using **Terraform**  
+- Backend development and automation with **Python**  
 - CI/CD pipelines, containerization, and observability practices  
 
 ---
 
 ## 🛠️ Skills & Tools
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
-![CI/CD](https://img.shields.io/badge/CI/CD-Automation-brightgreen?logo=githubactions)
-![SQL](https://img.shields.io/badge/SQL-Databases-red?logo=postgresql)
+- **Cloud:** AWS (Lambda, API Gateway, DynamoDB, EKS)  
+- **Infrastructure:** Terraform  
+- **Languages:** Python, SQL, VB6 (legacy systems exposure)  
+- **DevOps & Platform:** Docker, Kubernetes, CI/CD, Observability  
 
 ---
 
 ## 📌 Featured Repositories
-Some selected repositories that reflect my learning and implementation work:
+A selection of repositories that reflect my learning and implementation work:
 
 🔹 **Event Driven Order System**  
-AWS Lambda, API Gateway & DynamoDB – production-style event-driven design  
+Event-driven architecture using AWS Lambda, API Gateway, and DynamoDB  
 👉 https://github.com/KislayaSrivastava/event-driven-order-system  
 
 🔹 **Hospital Application on AWS**  
-Multi-tier AWS architecture using Terraform, Python & RDS  
+Multi-tier AWS architecture using Terraform, Python, and RDS  
 👉 https://github.com/KislayaSrivastava/multi-tier-hospital-aws-app  
 
 🔹 **Cloud Resume on EKS**  
@@ -56,22 +53,18 @@ Infrastructure-as-Code patterns and reusable Terraform modules
 👉 https://github.com/kislayasrivastava/terraform-beginner-bootcamp-2023  
 
 🔹 **Python File Automation Scripts**  
-Utility scripts for file search and movement  
+Utility scripts for file search and automated file movement  
 👉 https://github.com/KislayaSrivastava/filemovement  
 
 ---
 
-## 📊 GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=kislayasrivastava)
+## 📊 GitHub Usage
+This GitHub profile is used for:
+- Hands-on experimentation and technical exploration  
+- Infrastructure automation and scripting  
+- Reference architectures and learning-focused projects  
 
-
----
-
-## 🧰 Tech Stack Summary
-- **Cloud:** AWS (Lambda, API Gateway, DynamoDB, EKS)  
-- **Infrastructure:** Terraform  
-- **Languages:** Python, SQL, VB6 (legacy systems exposure)  
-- **Platform:** Docker, Kubernetes, CI/CD, Observability  
+Key repositories are pinned for quick access.
 
 ---
 
