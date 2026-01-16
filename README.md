@@ -62,7 +62,7 @@ Utility scripts for file search and movement
 ---
 
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kislayasrivastava&show_icons=true&hide_title=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=kislayasrivastava)
 
 
 ---
