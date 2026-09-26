@@ -1,72 +1,58 @@
 # Hi there 👋, I'm Kislaya Srivastava
 
-🚀 **AWS Certified Solutions Architect – Associate (CSAA-C02)**  
-💼 16+ years of experience in **enterprise application development & architecture**  
-☁️ Cloud | AWS | Python | DevOps | Terraform | Observability  
+🚀 **Senior Technical Lead — AI/ML & Cloud Architecture**
+🏅 **AWS Certified Solutions Architect** (Professional in progress)
+💼 16+ years designing, building, and governing production cloud and AI systems
+☁️ AWS | Terraform | Kubernetes | Python | GenAI/Bedrock | Observability | Security
 
 ---
 
 ## 👨‍💻 About Me
-I am a hands-on technologist with deep experience in designing, building, and modernizing enterprise systems.  
-My interests include **cloud-native architectures**, **infrastructure automation**, and **building reliable, observable platforms at scale**.
 
-I use GitHub primarily as a workspace to:
-- Experiment with cloud and infrastructure patterns  
-- Build reference implementations and proof-of-concepts  
-- Document architectural approaches, trade-offs, and learnings  
+I'm a hands-on cloud and AI architect. Over 16 years I've gone from writing production code to architecting AWS migrations for 50+ enterprise customers, to now chairing architecture review governance for a national-scale AI platform — where I hold sign-off authority across 15+ services, run independent security audits, and build the infrastructure myself when it needs building.
+
+I use GitHub as a working record of that: real reference implementations, not notebook demos — with IaC, tests, and a real deployment path behind each one.
 
 ---
 
 ## 🔧 What I Work On
-- Cloud-native workloads on **AWS** (Lambda, EKS, API Gateway, DynamoDB)  
-- Infrastructure-as-Code using **Terraform**  
-- Backend development and automation with **Python**  
-- CI/CD pipelines, containerization, and observability practices  
+
+- Cloud-native architecture on **AWS** (Lambda, EKS, API Gateway, DynamoDB, EventBridge)
+- **GenAI / RAG systems** on Amazon Bedrock — embeddings, retrieval, generation, observability
+- Infrastructure-as-Code with **Terraform**
+- LLM/GenAI observability — OpenTelemetry, cost and token tracing
+- CI/CD, containerization, and security-hardened platform design
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Cloud:** AWS (Lambda, API Gateway, DynamoDB, EKS)  
-- **Infrastructure:** Terraform  
-- **Languages:** Python, SQL, VB6 (legacy systems exposure)  
-- **DevOps & Platform:** Docker, Kubernetes, CI/CD, Observability  
+
+- **Cloud & Infra:** AWS (Lambda, API Gateway, DynamoDB, EKS, EventBridge, SQS/SNS), Terraform, Docker, Kubernetes
+- **AI/ML:** Amazon Bedrock, RAG pipelines, GenAI observability (OpenTelemetry GenAI semantic conventions)
+- **Languages:** Python, SQL, Bash
+- **DevOps & Observability:** GitHub Actions, CI/CD, OpenTelemetry, Jaeger
 
 ---
 
 ## 📌 Featured Repositories
-A selection of repositories that reflect my learning and implementation work:
 
-🔹 **Event Driven Order System**  
-Event-driven architecture using AWS Lambda, API Gateway, and DynamoDB  
-👉 https://github.com/KislayaSrivastava/event-driven-order-system  
+🔹 **[Event-Driven Order Processing System](https://github.com/KislayaSrivastava/event-driven-order-system)**
+Production-shaped event-driven microservices — AWS Lambda, EventBridge, SQS/SNS, DynamoDB, 100% Terraform IaC.
 
-🔹 **Hospital Application on AWS**  
-Multi-tier AWS architecture using Terraform, Python, and RDS  
-👉 https://github.com/KislayaSrivastava/multi-tier-hospital-aws-app  
+🔹 **[Bedrock RAG QA Assistant](https://github.com/KislayaSrivastava/bedrock-rag-qa-assistant)**
+Retrieval-Augmented Generation Q&A on Amazon Bedrock — Titan Embeddings, Claude, ChromaDB, serverless via Lambda + Terraform.
 
-🔹 **Cloud Resume on EKS**  
-Cloud Resume Challenge implemented on Kubernetes (AWS EKS)  
-👉 https://github.com/kislayasrivastava/resume-kubernetes  
-
-🔹 **Terraform Bootcamp**  
-Infrastructure-as-Code patterns and reusable Terraform modules  
-👉 https://github.com/kislayasrivastava/terraform-beginner-bootcamp-2023  
-
-🔹 **Python File Automation Scripts**  
-Utility scripts for file search and automated file movement  
-👉 https://github.com/KislayaSrivastava/filemovement  
+🔹 **[LLM OTel Wrapper](https://github.com/KislayaSrivastava/llm-otel-wrapper)**
+Drop-in OpenTelemetry instrumentation for LLM calls — latency, token usage, and cost, via the GenAI semantic conventions, zero call-site changes.
 
 ---
 
 ## 📊 GitHub Usage
-This GitHub profile is used for:
-- Hands-on experimentation and technical exploration  
-- Infrastructure automation and scripting  
-- Reference architectures and learning-focused projects  
 
-Key repositories are pinned for quick access.
+This profile holds production-shaped reference implementations and architecture experiments — each with real IaC, real tests, and documented design decisions, not just proof-of-concept code.
 
 ---
 
 ## 🔗 Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/kislaya-srivastava  
+
+- 💼 LinkedIn: [linkedin.com/in/kislaya-srivastava](https://www.linkedin.com/in/kislaya-srivastava)
